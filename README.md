@@ -24,5 +24,8 @@ PDF Merger System
 .
 ├── code
 │   └── PDF-merger.py
+├── icons
+│   └── merge-pdf-files-in-python.ico
+├── output
 └── README.md
 ```
