@@ -8,7 +8,7 @@ from PyPDF2 import PdfMerger
 class PDFMergerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("PDF Merger - v0.1")
+        self.root.title("PDF Merger - v2.0")
 
         self.pdf_list = []  # Lista para almacenar las rutas de los PDFs
         self.merger = PdfMerger()  # Instancia de PdfMerger para fusionar PDFs
